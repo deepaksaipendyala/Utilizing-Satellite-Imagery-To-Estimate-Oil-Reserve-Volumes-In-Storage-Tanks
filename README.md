@@ -1,4 +1,4 @@
-# Oil-Tank-Volume-using-Oil-Tanks-Based-on-High-Resolution-Satelite-Images
+# Detection-of-Shadow-cast-by-Oil-Tank-and-its-Volume-Estimation
 
 Oil storage tanks play an important role in the global economy. Crude oil is stored in tanks at many points between extraction and sale. Storage tanks are also used by nations to stockpile oil reserves. The volume of oil in storage is an important economic indicator. It indicates which oil producing nations are increasing or decreasing production and gives a window into the global demand for energy. At the same time, oil storage information is not transparent. Nations may hide information about oil production, consumption and storage for economic or military reasons. For this reason, companies like Planet and Orbital Insight have made a business of collecting satellite imagery of oil storage tanks and estimating reserve volumes.
 
